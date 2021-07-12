@@ -27,3 +27,34 @@
     border: none;
     cursor: pointer;
 }
+.cat1
+{
+    background-image: linear-gradient(to left, orange 0%, rgb(255, 136, 0) 100%);
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.cat2
+{
+    background-image: linear-gradient(to left, orchid 0%, rgb(231, 94, 186) 100%);
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.cat3
+{
+    background-image: linear-gradient(to left, blue 0%, rgb(118, 52, 224) 100%);
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.cat1 , .cat2 , .cat3 h1
+{
+    color:#fff;
+}
+
+.categories img
+{
+  width:100px;
+}
+
